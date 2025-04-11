@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For DFRobot_SFA40
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+DFRobot_SFA40 KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+startMeasurement	KEYWORD2
+stopMeasurement	KEYWORD2
+getSerialNumber	KEYWORD2
+readMeasurementData	KEYWORD2
+HOCO	KEYWORD2	
+humidity	KEYWORD2
+temperatureC	KEYWORD2
+temperatureF	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
