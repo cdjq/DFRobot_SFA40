@@ -103,7 +103,7 @@ protected:
    * @retval 0: IIC communication failed
    * @retval >0: The number of bytes read
   */
-  uint8_t readReg(uint16_t command, void* pBuf, size_t size);
+  int readReg(uint16_t command, void* pBuf, size_t size);
 
 
   /** 
